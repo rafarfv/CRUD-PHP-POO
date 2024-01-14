@@ -18,7 +18,7 @@ class Database
      * Nome do banco de dados
      * @var string
      */
-    const NAME = 'BancoDados';
+    const NAME = 'BancoDado';
 
     /**
      * Usuário do banco
