@@ -1,0 +1,19 @@
+{
+    "name": "rafarfv/rafarfv-crud-php-poo",
+    "description": "CRUD em php com POO",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael de Freitas Vinagre",
+            "email": "rafarfv@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rafarfv\\RafarfvCrudPhpPoo\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
