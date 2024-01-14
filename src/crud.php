@@ -24,13 +24,13 @@ class Database
      * Usuário do banco
      * @var string
      */
-    const USER = 'root';
+    const USER = 'usuario';
 
     /**
      * Senha de acesso ao banco de dados
      * @var string
      */
-    const PASS = 'root';
+    const PASS = 'senha';
 
     /**
      * Nome da tabela a ser manipulada
